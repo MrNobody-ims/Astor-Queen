@@ -1,21 +1,19 @@
 <div align="center">
   <img src="https://i.ibb.co/r3wmpwr/LOGO.jpg" width="300" height="300">
-  <h1>👸💎 QUEEN AMDI BOT 💎👸</h1>
-  <h2>[Queen Amdi Multi-Device update coing soon..]</h2>
+  <h1>👑 Astor Queen 👑</h1>
+  <h2>[Astor Queen Multi-Device update coming soon..]</h2>
 </div>
 <p align="center">
     Makes it easy and fun to use WhatsApp. It is also the first Sinhala user bot for WhatsApp.
     <br>
-        <a href="https://chat.whatsapp.com/FufFv6v1M288le5TopCNMQ">Whatsapp Group</a> |
-        <a href="https://www.youtube.com/channel/UCZx8U1EU95-Wn9mH4dn15vQ">Youtube Channel</a>
-    <br>
+       
 </p>
 
 ----
 <div align="center">
 	<h1>Visit our official website to install the Whatsapp Bot (With button update) :</h1>
-	<a href="https://www.amdaniwasa.com">
-<img src="https://images.squarespace-cdn.com/content/v1/580515742e69cfedd1fbef58/1525386767826-Z6T2PAXQD6PZJFNGY14U/ke17ZwdGBToddI8pDm48kGzbt7cz3CKX9Rsta-RdWeJZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwXPcCdCfJzTjuw7eD5qoJaUvNnrlJ7-JqE3xnP9OqaaXMr3zNNd3H5Lklmgn1mB80/getbutton.png" width="400"></br></a>
+	
+<img src="https://images.squarespace-cdn.com/content/v1/580515742e69cfedd1fbef58/1525386767826-Z6T2PAXQD6PZJFNGY14U/ke17ZwdGBToddI8pDm48kGzbt7cz3CKX9Rsta-RdWeJZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwXPcCdCfJzTjuw7eD5qoJaUvNnrlJ7-JqE3xnP9OqaaXMr3zNNd3H5Lklmgn1mB80/getbutton.png" width="400"></br>
 </div>
 
 ----
@@ -25,14 +23,12 @@
 ### QR CODE
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@BlackAmda/Queen-Amdi-QR-Code)
 
-### Deploy OLD v3 Queen Amdi Bot
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/BlackAmda/QueenAmdi-v3)
 </div>
 
 ----
 
 <p align="center">
-  <a href="httsp://github.com/BlackAmda/QueenAmdi">
+  <a href="https://github.com/MrNobody-ims/Astor-Queen">
     <img src="https://img.shields.io/docker/pulls/blackamda/queenamdi?style=flat-square&label=Docker+Pulls">
   </a>
   <a href="https://github.com/BlackAmda/QueenAmdi">
@@ -57,25 +53,25 @@
 </p>
 
 <p align="center">
-  <a href="httsp://github.com/BlackAmda/QueenAmdi">
+  <a href="https://github.com/MrNobody-ims/Astor-Queen">
     <img src="https://img.shields.io/github/repo-size/BlackAmda/QueenAmdi?color=purple&label=Repo%20Size&style=plastic">
 
   </a>
-  <a href="httsp://github.com/BlackAmda/QueenAmdi">
+  <a href="https://github.com/MrNobody-ims/Astor-Queen">
     <img src="https://img.shields.io/github/license/BlackAmda/QueenAmdi?color=purple&label=License&style=plastic">
 
   </a>
-  <a href="httsp://github.com/BlackAmda/QueenAmdi">
+  <a href="https://github.com/MrNobody-ims/Astor-Queen">
     <img src="https://img.shields.io/github/languages/top/BlackAmda/QueenAmdi?color=purple&label=Javascript&style=plastic">
 
   </a>
-  <a href="httsp://github.com/BlackAmda/QueenAmdi">
+  <a href="https://github.com/MrNobody-ims/Astor-Queen">
     <img src="https://img.shields.io/static/v1?label=Author&message=Black%20Amda&color=purple&style=plastic">
 
   </a>
   </p>
  <p align="center">
-  <a href="https://wa.me/94757405652">
+  <a href="https://wa.me/94740221316">
     <img src="https://img.shields.io/badge/Contact%20Me%20On%20Whatsapp-Queen%20Amdi%20Bot-purple&style=plastic">
 
   </a>
@@ -98,36 +94,8 @@ QR Code generator and full instructions available there.
 <img src="https://i.ibb.co/dr27VyW/59060c190cbeef0acff9a657.png" width="200"></br></a>
 </div>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BlackAmda/QueenAmdi)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MrNobody-ims/Astor-Queen)
 
-## Queen Amdi Team
-
-<table>
-										<tbody>
-											<tr>
-												<td><a href="httsp://github.com/BlackAmda/"><img src="https://i.ibb.co/r7vZVqw/1-Amda.jpg" width="200" height="200" alt="Black Amda"></a></td>
-												<td><a href="https://www.instagram.com/sinhalaya_official_/"><img src="https://i.ibb.co/tsFBnbx/2-Sasmitha.jpg" width="200" height="200" alt="sᴀsᴍɪᴛʜᴀ"></a></td>
-												<td><a href="https://www.instagram.com/saji_x.x_4/"><img src="https://i.ibb.co/6FZsnvQ/3-Sajiya.jpg" width="200" height="200" alt="ʟɪʟ ʟᴜᴢɪ"></a></td>
-											</tr>
-										</tbody>
-									</table>
-                  <table>
-										<tbody>
-											<tr>
-												<td><a href="https://dinaaofficial.github.io/dina-official/"><img src="https://i.ibb.co/rvYYcVD/4-Dina.jpg" width="200" height="200" alt="ᴍʀ.ᴅɪɴᴀ"></a></td>
-												<td><a href="https://www.youtube.com/channel/UCZx8U1EU95-Wn9mH4dn15vQ"><img src="https://i.ibb.co/HzfN8pD/5-Joka.jpg" width="200" height="200" alt="ᴊᴏᴋᴀ ᴛᴀᴍᴀ"></a></td>
-                        <td><a href="httsp://github.com/BlackAmda/"><img src="https://i.ibb.co/bj4LqJh/6-Kapaya.jpg" width="200" height="200" alt="ᴋᴀᴘᴀʏᴀ"></a></td>
-											</tr>
-									</table>
-                  <table>
-										<tbody>
-											<tr>
-												<td><a href="https://www.thinknfree.com/"><img src="https://i.ibb.co/2kHWJBD/7-Zeus.jpg" width="200" height="200" alt="ᴢᴇᴜs"></a></td>
-												<td><a href="httsp://github.com/BlackAmda/"><img src="https://i.ibb.co/x3MjnWn/8-Pancha.jpg" width="200" height="200" alt="ZEYREX"></a></td>
-												<td><a href="httsp://github.com/BlackAmda/"><img src="https://i.ibb.co/ySvhR4J/9-Saiko.jpg" width="200" height="200" alt="sɪɢᴇᴅᴇʀɪᴇɴ"></a></td>
-											</tr>
-										</tbody>
-									</table>
 
 ### License
 This project is protected by the `GNU General Public License v3.0.`
