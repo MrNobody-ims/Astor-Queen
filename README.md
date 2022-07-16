@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co/r3wmpwr/LOGO.jpg" width="300" height="300">
+  <img src="https://i.ibb.co/Ksrp7w7/db13693eaa68.jpg" width="300" height="300">
   <h1>👑 Astor Queen 👑</h1>
   <h2>[Astor Queen Multi-Device update coming soon..]</h2>
 </div>
